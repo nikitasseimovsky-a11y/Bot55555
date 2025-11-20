@@ -12,7 +12,7 @@ import os
 # --- 1. КОНСТАНТЫ И ИНИЦИАЛИЗАЦИЯ ---
 
 # ВАШ API ТОКЕН
-API_TOKEN = '8104015290:AAFN9LtxJLa0I9977Ugw_7NpK7-JyZ5Qt5E' 
+API_TOKEN = '8104015290:AAFXc5RilQo8NerxjYfopkR5S-yhTQLLwZw' 
 # !!! УСТАНАВЛИВАЕМ parse_mode ПО УМОЛЧАНИЮ КАК 'HTML' !!!
 bot = telebot.TeleBot(API_TOKEN, parse_mode='HTML')
 
@@ -1502,4 +1502,5 @@ if __name__ == '__main__':
     except Exception as e:
         print(f"\n❌ КРИТИЧЕСКАЯ ОШИБКА ПРИ РАБОТЕ БОТА. БОТ ОСТАНОВИЛСЯ: {e}")
         traceback.print_exc()
+
         input()
