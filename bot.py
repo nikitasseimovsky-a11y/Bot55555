@@ -63,8 +63,8 @@ WALLETS = {
 
 LINKS = {
     "SUPPORT": "aleksandr_0941", 
-    "CHANNEL": "@akkaoaja", 
-    "CHANNEL_URL": "https://t.me/akkaoaja", 
+    "CHANNEL": "@Ravellonn", 
+    "CHANNEL_URL": "https://t.me/Ravellonn", 
     "WORK_CHANNEL": "https://t.me/+RSqQG9g1XCc2ZGEy" 
 }
 
@@ -1504,3 +1504,4 @@ if __name__ == '__main__':
         traceback.print_exc()
 
         input()
+
