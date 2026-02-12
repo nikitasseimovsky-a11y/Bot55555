@@ -12,7 +12,7 @@ import os
 # --- 1. КОНСТАНТЫ И ИНИЦИАЛИЗАЦИЯ ---
 
 # ВАШ API ТОКЕН
-API_TOKEN = '8568738713:AAFx0kNgeo-kzXcU-5IccHe4zBU1onu7VCU' 
+API_TOKEN = '8155982744:AAHct1GxAudHkRwGvhUPZmKR6BKJUuf8LBk' 
 # !!! УСТАНАВЛИВАЕМ parse_mode ПО УМОЛЧАНИЮ КАК 'HTML' !!!
 bot = telebot.TeleBot(API_TOKEN, parse_mode='HTML')
 
@@ -1504,6 +1504,7 @@ if __name__ == '__main__':
         traceback.print_exc()
 
         input()
+
 
 
 
